@@ -71,4 +71,4 @@ Pessoas com **deficiência motora**, **mobilidade reduzida** ou que **não podem
 
 ## 🧑‍💻 Desenvolvido com
 
-❤️ e dedicação pelos alunos da **Etec da Zona Leste**, com o propósito de **tornar a tecnologia mais acessível para todos**.
+amor e dedicação pelos alunos da **Etec da Zona Leste**, com o propósito de **tornar a tecnologia mais acessível para todos**.
