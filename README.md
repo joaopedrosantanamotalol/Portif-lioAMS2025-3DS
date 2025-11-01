@@ -37,9 +37,9 @@ Promover **inclusão e acessibilidade digital** por meio de um sistema que possi
 
 - Rastreamento facial em tempo real  
 - Reconhecimento de olhos e expressões  
-- Controle do cursor com o rosto  
+- Controle de interações importantes com os olhos
 - Cliques e seleções com piscadas ou gestos  
-- Interface personalizável com **CustomTkinter**  
+- Interface intuitiva com **CustomTkinter**  
 - Execução de ações e programas por comando facial  
 
 ---
