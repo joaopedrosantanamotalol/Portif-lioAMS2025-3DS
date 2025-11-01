@@ -62,10 +62,10 @@ Pessoas com **deficiência motora**, **mobilidade reduzida** ou que **não podem
 
 ## 🚀 Futuras Melhorias
 
-- Adição de teclado virtual integrado  
-- Perfis personalizados por usuário  
+- Melhora na performace
+- Reestruturação
 - Calibração facial individual  
-- Suporte a voz e acessibilidade ampliada  
+- Suporte a voz e acessibilidade ampliada (se possivel)  
 
 ---
 
