@@ -1,4 +1,4 @@
-# Portif-lioAMS2025-3DS
+# PortifólioAMS2025-3DS
 
 # 🧠 Projeto M.E.R.LIN
 
@@ -16,14 +16,16 @@ O sistema reconhece e interpreta **movimentos do rosto e dos olhos**, transforma
 
 ## ⚙️ Tecnologias Utilizadas
 
-- **Python**  
-- **OpenCV** — captura e processamento de imagem da webcam  
-- **MediaPipe** — detecção facial e rastreamento de pontos do rosto  
-- **PyAutoGUI** — automação de ações no computador (movimento do mouse, cliques etc.)  
-- **Subprocess** — execução de comandos do sistema  
-- **OS** — integração com o sistema operacional  
-- **py32** — compatibilidade de execução em ambientes Windows  
-- **CustomTkinter** — criação da interface gráfica moderna e acessível  
+| 🧩 Tecnologia | 💻 Função Principal |
+|---------------|---------------------|
+| 🐍 **Python** | Linguagem base do projeto |
+| 📸 **OpenCV** | Captura e processamento de imagem da webcam |
+| 🧠 **MediaPipe** | Detecção facial e rastreamento de pontos do rosto |
+| 🖱️ **PyAutoGUI** | Automação de ações no computador (movimento do mouse, cliques etc.) |
+| ⚙️ **Subprocess** | Execução de comandos do sistema |
+| 🗂️ **OS** | Integração com o sistema operacional |
+| 🪟 **py32** | Compatibilidade de execução em ambientes Windows |
+| 🎨 **CustomTkinter** | Criação da interface gráfica moderna e acessível |
 
 ---
 
@@ -35,12 +37,14 @@ Promover **inclusão e acessibilidade digital** por meio de um sistema que possi
 
 ## 🧩 Funcionalidades Principais
 
-- Rastreamento facial em tempo real  
-- Reconhecimento de olhos e expressões  
-- Controle de interações importantes com os olhos
-- Cliques e seleções com piscadas ou gestos  
-- Interface intuitiva com **CustomTkinter**  
-- Execução de ações e programas por comando facial  
+| ⚡ Funcionalidade | 📝 Descrição |
+|------------------|-------------|
+| 🎥 **Rastreamento facial em tempo real** | Detecta e acompanha o rosto do usuário via webcam |
+| 👁️ **Reconhecimento de olhos e expressões** | Interpreta piscadas e movimentos sutis do olhar |
+| 🖱️ **Controle por olhos** | Move o cursor e interage com o computador através do olhar |
+| 👋 **Cliques com gestos faciais** | Permite cliques e seleções com piscadas ou movimentos |
+| 🪄 **Interface intuitiva** | Desenvolvida com **CustomTkinter**, moderna e acessível |
+| ⚙️ **Execução de ações** | Abre programas e executa comandos via interação facial |
 
 ---
 
@@ -62,13 +66,13 @@ Pessoas com **deficiência motora**, **mobilidade reduzida** ou que **não podem
 
 ## 🚀 Futuras Melhorias
 
-- Melhora na performace
-- Reestruturação
-- Calibração facial individual  
-- Suporte a voz e acessibilidade ampliada (se possivel)  
+- ⚡ Melhora na performance geral  
+- 🧱 Reestruturação do código e otimização do processamento facial  
+- 🎯 Calibração facial individual  
+- 🗣️ Suporte a voz e acessibilidade ampliada *(se possível)*  
 
 ---
 
 ## 🧑‍💻 Desenvolvido com
 
-amor e dedicação pelos alunos da **Etec da Zona Leste**, com o propósito de **tornar a tecnologia mais acessível para todos**.
+❤️ **amor e dedicação** pelos alunos da **Etec da Zona Leste**, com o propósito de **tornar a tecnologia mais acessível para todos**.
